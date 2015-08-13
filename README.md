@@ -11,5 +11,5 @@ In some of my commits I didn't include my email, so these commits don't show up 
 * [Added color picker + optional black color](https://github.com/notnola/pinychat/pull/7) (2015/8/5)
 
 ###### reddit-notifier:
-
+* [New reddit-like UI](https://github.com/kaypoz/reddit-notifier/pull/4) \[2\] (2015/5/27)
 * [New/fixed icons + orange badge](https://github.com/kaypoz/reddit-notifier/pull/3) (2015/5/26)
